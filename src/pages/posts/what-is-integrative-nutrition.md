@@ -10,6 +10,11 @@ img_path: /images/alberto-bigoni-solhbkqzbai-unsplash.jpg
 post_button_label: Read More
 date: '2020-04-29T00:20:44.343Z'
 template: page
+menus:
+  main:
+    title: lorem-ipsum
+    weight: 0
+    identifier: lorem-ipsum
 ---
 Integrative Nutrition is a form of healing that looks at the whole person beyond the physical symptoms and body by addressing physical, emotional, social, spiritual, and intellectual health. All of these areas are what enables a person to truly live each day in the healthiest, happiest way possible, and if one area is compromised, most likely other areas will be as well.
 
