@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: dantosXD/cultivatingthyme2020
   branch: master
 media_folder: static/images
 public_folder: /images
